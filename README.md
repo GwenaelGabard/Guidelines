@@ -11,8 +11,9 @@ Use the present tense or past tense consistently and avoid mixing them. If you c
 
 Relying too heavily on the passive voice is very common. Try instead to use the active voice whenever possible.
 
+## Equations
 
-## Italic vs roman
+### Italic vs roman
 
 A general guideline is that a variable is typeset in italic whereas constants or mathematical entities with well-known definitions should be typeset in roman fonts. For instance the following constants are typeset in roman:
 * The imaginary unit i
@@ -39,7 +40,7 @@ p_\mathrm{max}
 ```
 
 
-## Bold
+### Bold
 
 Reserve the use of bold symbols for vectors and matrices.
 
@@ -54,7 +55,7 @@ you should write
 \mathbf{A}_i
 ```
 
-## Parentheses
+### Parentheses
 
 The order of precedence should be parentheses, square brackets and then curly braces:
 ```latex
@@ -62,7 +63,7 @@ The order of precedence should be parentheses, square brackets and then curly br
 ```
 
 
-## Fractions
+### Fractions
 
 Except in displayed equations, avoid using `\frac` in inline equations. For instance instead of
 ```latex
@@ -74,26 +75,26 @@ The value is $d=h/8$.
 ```
 
 
-## Encoding
-
-Use the Unicode encoding for your LaTeX files and place the following in the preamble:
-```latex
-\usepackage[utf8]{inputenc}
-```
-
-
-## Scalar product
+### Scalar product
 
 The scalar product is typeset using the `\cdot` command and should not be written using the period `.` character.
 
 
-## Units
+### Units
 
 Units are typeset in roman fonts and separated by a thin space from the value. This can be implemented with the following command:
 ```latex
 \newcommand{\unit}[1]{\,\mathrm{#1}}
 ```
 Alternatively you can use the `units` package.
+
+
+## Encoding
+
+Use the Unicode encoding for your LaTeX files and place the following in the preamble:
+```latex
+\usepackage[utf8]{inputenc}
+```
 
 
 ## Figures
