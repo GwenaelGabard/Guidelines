@@ -1,5 +1,4 @@
-# Guidelines for typesetting documents
-
+# Basic guidelines to write a scientific article 
 
 ## Writing style
 
@@ -10,6 +9,14 @@ If in doubt about a particular idiom, use a trusted resource such as "Practical 
 Use the present tense or past tense consistently and avoid mixing them. If you choose to write your paper in the present tense, use it throughout. It is only on rare occasions that a different tense from the rest of the document can be used.
 
 Relying too heavily on the passive voice is very common. Try instead to use the active voice whenever possible.
+
+## Checklist
+
+Authors should check the following items before submitting with their manuscript.
+- [ ] unit symbols should be upright (e.g. kg, not kg).
+- [ ] use Roman (normal upright) type for total differential operators (e.g. d in differential); i or j (square root of -1); exp or e (base of natural logarithms); Re or Im (real or imaginary part); log, ln, sin, cos, etc.; multiletter symbols (e.g. SPL for sound pressure levels)
+
+# Advanced guidelines for typesetting documents using LaTeX
 
 ## Equations
 
