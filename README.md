@@ -13,8 +13,25 @@ Relying too heavily on the passive voice is very common. Try instead to use the 
 ## Checklist
 
 Authors should check the following items before submitting with their manuscript.
+
+
+- [ ] the author guidelines and requirements have been checked on the journal website. 
+- [ ] all authors are listed in the manuscript with correct affiliations, correct email address 
+and are in correct order.
+- [ ] none of the figures of the manuscript has been already published in another journal.
+- [ ] all figures, tables and equations are correctly numbered.
+- [ ] all figures, tables and equations have a caption.
+- [ ] all figures and tables are cited at least once in the text of the manuscript.
+- [ ] for multi-parts figures, each part is labelled and the labels are defined in the figure caption.
+- [ ] all abbreviations are defined (once only) the first time they appear in the text. 
+- [ ] all variables are defined (once only) the first time they appear in the text.
 - [ ] unit symbols should be upright (e.g. kg, not kg).
 - [ ] use Roman (normal upright) type for total differential operators (e.g. d in differential); i or j (square root of -1); exp or e (base of natural logarithms); Re or Im (real or imaginary part); log, ln, sin, cos, etc.; multiletter symbols (e.g. SPL for sound pressure levels)
+- [ ] figures in colour can be reproduced in black and white in the printed journal and must therefore be readable in both colour and black & white. Note that charges may apply for production of colour figures in the printed journal.
+- [ ] novelty of the paper has been clearly stated in the introduction.
+- [ ] acknowledgements should appear in a separate section just after the conclusions.
+- [ ] in case material is reproduced from other publications (e.g. tables, figures), source is acknowledged.
+
 
 # Advanced guidelines for typesetting documents using LaTeX
 
