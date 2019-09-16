@@ -24,8 +24,8 @@ and are in correct order.
 - [ ] all figures and tables have a caption.
 - [ ] all figures and tables are cited at least once in the text of the manuscript.
 - [ ] for multi-parts figures, each part is labelled and the labels are defined in the figure caption.
-- [ ] all references mentioned in the reference list are cited in the text, and vice versa
-- [ ] all abbreviations are defined (once only) the first time they appear in the text. 
+- [ ] all references mentioned in the reference list are cited in the text, and vice versa. 
+- [ ] all abbreviations are defined (once only) the first time they appear in the text. If possible, abbreviations are avoided in the abstract. 
 - [ ] all variables are defined (once only) the first time they appear in the text.
 - [ ] unit symbols should be upright (e.g. kg, not *kg*).
 - [ ] use Roman (normal upright) type for total differential operators (e.g. d in differential); i or j (square root of -1); exp or e (base of natural logarithms); Re or Im (real or imaginary part); log, ln, sin, cos, etc.; multiletter symbols (e.g. SPL for sound pressure levels)
