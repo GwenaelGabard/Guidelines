@@ -1,4 +1,4 @@
-# Basic guidelines to write a scientific article 
+# Basic guidelines to write a scientific paper
 
 ## Writing style
 
@@ -12,7 +12,7 @@ Relying too heavily on the passive voice is very common. Try instead to use the 
 
 ## Checklist
 
-Authors should check the following items before submitting their manuscripts.
+Authors should check the following items before submitting their manuscripts (this list is taken from JSV but is probably applicable to many other journals):
 
 - [ ] the manuscript has been 'spell checked' and 'grammar checked'.
 - [ ] journal policies have been reviewed.
@@ -35,7 +35,7 @@ and are in correct order.
 - [ ] in case material is reproduced from other publications (e.g. tables, figures), permission has been obtained for use of copyrighted material from other sources and source is acknowledged.
 
 
-# Advanced guidelines for typesetting documents using LaTeX
+# Guidelines for typesetting documents using LaTeX
 
 ## Equations
 
@@ -52,7 +52,7 @@ As an example the definition of the Fourier transform can be typeset as follows
 \hat{f}(\omega) = \int f(t) \mathrm{e}^{\mathrm{i}\omega t}\,\mathrm{d}t
 ```
 
-This applies also to well known functions such as the cosine, sine, tangent functions for which specific macros are defined in LaTeX: `\cos`, `\sin` and `\tan`. Another example is the Bessel functions which should be typeset `\mathrm{J}_m`.
+This applies also to well-known functions such as the cosine, sine, tangent functions for which specific macros are defined in LaTeX: `\cos`, `\sin` and `\tan`. Another example is the Bessel functions which should be typeset `\mathrm{J}_m`.
 
 If a variable is used in a subscript or a superscript it should be typeset in italic. For instance the components of a vector a would be written:
 ```latex
@@ -135,7 +135,7 @@ plot(x, f);
 set(gca, 'LineWidth', 1, 'FontSize', 13);
 set(get(gca, 'Children'), 'LineWidth', 1.5);
 ```
-In python you can adjust the default settings of `matplotlib` as follows:
+In Python you can adjust the default settings of `matplotlib` as follows:
 ```python
 import numpy as np
 import matplotlib as mpl
