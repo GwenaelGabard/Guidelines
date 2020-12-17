@@ -24,6 +24,7 @@ and are in correct order.
 - [ ] all figures and tables have a caption.
 - [ ] all figures and tables are cited at least once in the text of the manuscript.
 - [ ] for multi-parts figures, each part is labelled and the labels are defined in the figure caption.
+- [ ] if two figures involving a colormap are meant to be compared, make sure that the extent of the colorbars are the same.
 - [ ] all references mentioned in the reference list are cited in the text, and vice versa. 
 - [ ] all abbreviations are defined (once only) the first time they appear in the text. If possible, abbreviations are avoided in the abstract. 
 - [ ] all variables are defined (once only) the first time they appear in the text.
