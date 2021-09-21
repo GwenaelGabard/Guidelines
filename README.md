@@ -12,7 +12,7 @@ Relying too heavily on the passive voice is very common. Try instead to use the 
 
 ## Checklist
 
-Authors should check the following items before submitting their manuscripts (this list is taken from JSV but is probably applicable to many other journals):
+The following is a list of important things to check before submitting a paper to a journal (this list is taken from JSV but is probably applicable to many other journals):
 
 - [ ] the manuscript has been 'spell checked' and 'grammar checked'.
 - [ ] journal policies have been reviewed.
@@ -89,6 +89,10 @@ The order of precedence should be parentheses, square brackets and then curly br
 \{ [ (x+a) +b ] +c \}
 ```
 
+The mean value and a scalar product are sometimes denoted with angle brackets <>. Do not use the "smaller than" or "greater than" symbols, but use the proper LaTeX delimiters for this purpose:
+```latex
+\langle x \rangle
+```
 
 ### Fractions
 
